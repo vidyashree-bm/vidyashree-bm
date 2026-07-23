@@ -1,157 +1,270 @@
-# 📘 The Operations Playbook
+# Hi, I'm Vidyashree BM 👋
 
-> Behind every successful campaign is a well-designed process.
+### Marketing Operations | CRM | Website Management | Events | Customer Success
 
-Welcome to **The Operations Playbook**—a curated collection of frameworks, workflows, checklists, and real-world case studies from my experience in Marketing Operations, CRM Management, Website Management, Customer Success, and Event Operations.
+I enjoy building the systems that make marketing teams more efficient.
 
-This repository is designed to showcase **how I think, solve problems, and build scalable systems**, not just what I've worked on.
+Over the past 12+ years, I've worked across Marketing Operations, CRM, Customer Success, Website Management, and Event Operations, helping teams streamline processes, improve execution, and deliver measurable business outcomes.
 
----
+I believe the best marketing doesn't happen by chance—it happens through well-designed processes, collaboration, and continuous improvement.
 
-# 🎯 What You'll Find Here
+## Areas I Work In
 
-## 📧 Marketing Operations
-Campaign planning, execution checklists, reporting, and optimization.
+- Marketing Operations
+- CRM & Marketing Automation
+- Email Marketing
+- Website Management
+- Event Operations
+- Customer Success
+- Reporting & Analytics
+- Process Documentation
 
-## ⚙️ CRM & Automation
-CRM workflows, lead management, segmentation, automation concepts, and best practices.
+## Featured Portfolio
 
-## 🌐 Website Management
-Content updates, landing pages, SEO checklists, QA, and maintenance processes.
+📘 The Operations Playbook
 
-## 🎪 Event Operations
-Planning templates, budgets, vendor management, run sheets, and post-event reviews.
+A collection of playbooks, SOPs, templates, workflows, and case studies from my professional experience.
 
-## 📊 Reporting & Dashboards
-Campaign reporting, KPI tracking, dashboards, and performance analysis.
+## Currently Learning
 
-## 🤖 AI for Operations
-AI prompts, workflow ideas, and productivity techniques for marketing and operations teams.
+- HubSpot CRM
+- AI for Marketing
+- GitHub Pages
 
----
-
-# 🌱 Why This Repository?
-
-Operations is often invisible—but it's what enables great customer experiences, successful campaigns, and efficient teams.
-
-This playbook reflects my approach to creating structured, scalable, and measurable processes that support business growth.
-
----
-
-## 📬 Let's Connect
+## Let's Connect
 
 📍 Bengaluru, India
 
-💼 LinkedIn: https://www.linkedin.com/in/vidyashree-bm-493a2144/
+💼 LinkedIn :https://www.linkedin.com/in/vidyashree-bm-493a2144/
 
-📧 Email: vidyashreebm55@gmail.com
+📧 Email : vidyashreebm55@gmail.com
+
+The-Operations-Playbook
+Real-world playbooks, workflows, templates, SOPs and case studies from Marketing Operations.
+
+The-Operations-Playbook
 
 
-# CRM Playbook
+01-Marketing-Operations
 
-This section focuses on building efficient CRM processes that improve lead management, sales collaboration, and customer engagement.
+02-CRM
 
-## Topics
+03-Email-Marketing
 
-- Lead Lifecycle
-- Segmentation
-- Lead Routing
-- CRM Hygiene
-- Automation Ideas
-- Reporting
+04-Website-Management
+
+05-Event-Operations
+
+06-Reporting-Analytics
+
+07-Case-Studies
+
+08-Templates
+
+09-AI-for-Marketing
+
+# 📘 The Operations Playbook
+
+Operations is often invisible, but it's the foundation of every successful campaign, website, customer experience, and event.
+
+This repository is a collection of practical frameworks, playbooks, templates, and case studies based on my experience in Marketing Operations.
+
+Rather than simply listing responsibilities, this repository demonstrates how I approach planning, execution, optimization, and continuous improvement.
 
 ---
 
-More content coming soon...
+# Chapters
 
+## 01 Marketing Operations
+
+Campaign planning, execution frameworks, quality assurance, stakeholder communication, and operational planning.
+
+## 02 CRM
+
+Lead lifecycle, CRM processes, segmentation, database management, automation, and reporting.
+
+## 03 Email Marketing
+
+Campaign planning, deliverability, segmentation, reporting, testing, and optimization.
+
+## 04 Website Management
+
+Content publishing, SEO audits, landing pages, quality assurance, and maintenance.
+
+## 05 Event Operations
+
+Planning, budgeting, vendor management, logistics, registrations, and post-event reporting.
+
+## 06 Reporting & Analytics
+
+Marketing dashboards, KPIs, campaign analysis, and reporting frameworks.
+
+## 07 Case Studies
+
+Real projects documenting business problems, solutions, tools used, outcomes, and lessons learned.
+
+## 08 Templates
+
+Ready-to-use templates, checklists, trackers, and documentation.
+
+## 09 AI for Marketing
+
+AI prompts, workflow ideas, automation concepts, and productivity resources.
+
+---
+
+The playbooks in this repository continue to evolve as I learn, improve, and solve new business challenges.
+
+# Marketing Operations Playbook
+
+Marketing operations is about creating repeatable systems that enable marketing teams to execute consistently and efficiently.
+
+## Topics Covered
+
+- Campaign Planning
+- Marketing Calendar
+- Stakeholder Communication
+- Campaign QA
+- Budget Planning
+- Vendor Coordination
+- Project Tracking
+- Risk Management
+- Performance Reviews
+
+## Objective
+
+Build repeatable processes that improve execution quality while reducing manual effort.
+
+# CRM Playbook
+
+Customer Relationship Management is the foundation of lead management and customer engagement.
+
+## Topics Covered
+
+- Lead Lifecycle
+- Data Management
+- Lead Segmentation
+- Campaign Lists
+- Lead Routing
+- Automation
+- CRM Hygiene
+- Reporting
+
+## Goal
+
+Maintain an organized CRM that supports marketing and sales through accurate, actionable data.
 
 # Email Marketing Playbook
 
-A practical guide to planning, executing, and optimizing email campaigns.
+Email remains one of the most effective communication channels when campaigns are built on the right audience, message, and timing.
 
-## Topics
+## Topics Covered
 
-- Campaign Calendar
+- Campaign Planning
 - Audience Segmentation
 - Deliverability
-- Quality Assurance
+- Subject Lines
+- QA Checklist
 - A/B Testing
-- Performance Reporting
+- Reporting
+- Campaign Optimization
 
+## Goal
 
-# Website Management
+Deliver relevant communication that improves engagement and supports business objectives.
 
-This section covers the operational side of managing a business website.
+# Website Management Playbook
 
-## Topics
+A website is often the first interaction a customer has with a brand.
+
+This playbook documents the operational processes required to keep a business website accurate, updated, and optimized.
+
+## Topics Covered
 
 - Website Audit
 - SEO Checklist
 - Landing Pages
 - WordPress Publishing
-- Quality Checks
-- Maintenance Schedule
+- Content QA
+- Monthly Maintenance
+- Analytics Review
 
+# Event Operations Playbook
 
-# Event Operations
+Successful events are built on planning, coordination, communication, and execution.
 
-A collection of templates, processes, and checklists used to plan and execute successful events.
+## Topics Covered
 
-## Topics
-
-- Event Planning
+- Planning Timeline
 - Budget Management
 - Vendor Coordination
-- Registration
-- Event Day Run Sheet
-- Post-Event Review
+- Registration Process
+- Event Day Checklist
+- Run Sheet
+- Risk Planning
+- Post Event Report
 
+# Reporting & Analytics
+
+Data helps marketing teams make informed decisions.
+
+## Topics Covered
+
+- Campaign Reports
+- Dashboard Design
+- Marketing KPIs
+- ROI Tracking
+- Funnel Analysis
+- Weekly Reports
+- Monthly Business Review
 
 # Case Studies
 
-This section documents real business challenges, the approach taken, and the outcomes achieved.
+This section documents real projects using a structured approach.
 
-## Planned Case Studies
+Each case study follows the same format:
+
+- Business Context
+- Challenge
+- Objective
+- Approach
+- Tools Used
+- Outcome
+- Key Learnings
+
+Planned Case Studies
 
 - Improving Email Deliverability
 - Website Content Management Process
-- CRM Workflow Optimization
-- Marketing Campaign Operations
-- Event Planning & Execution
-
+- CRM Process Optimization
+- Event Planning Framework
+- Marketing Dashboard Design
 
 # Templates
 
-Reusable templates for marketing and operations teams.
+A collection of reusable documents that support marketing operations.
 
-## Planned Templates
+Examples
 
 - Campaign Brief
-- Website Audit
+- Website Audit Checklist
 - Event Checklist
-- Vendor Evaluation
+- Vendor Evaluation Sheet
 - Marketing Calendar
 - Weekly Status Report
+- Meeting Notes
+- Campaign Tracker
 
+# AI for Marketing
 
-The-Operations-Playbook
-│
-├── README.md
-│
-├── CRM-Playbook
-│      └── README.md
-│
-├── Email-Marketing
-│      └── README.md
-│
-├── Website-Management
-│      └── README.md
-│
-├── Event-Operations
-│      └── README.md
-│
-├── Case-Studies
-│      └── README.md
-│
-└── Templates
-       └── README.md
+Exploring practical AI applications that improve marketing productivity.
+
+Topics
+
+- Prompt Library
+- Email Writing
+- SEO Content
+- CRM Assistance
+- Campaign Planning
+- Meeting Summaries
+- Reporting
