@@ -1,141 +1,157 @@
-<div align="center">
+# 📘 The Operations Playbook
 
-# Hi, I'm Vidyashree BM
+> Behind every successful campaign is a well-designed process.
 
-### Building the systems behind successful marketing teams.
+Welcome to **The Operations Playbook**—a curated collection of frameworks, workflows, checklists, and real-world case studies from my experience in Marketing Operations, CRM Management, Website Management, Customer Success, and Event Operations.
 
-Marketing Operations • CRM Automation • Website Growth • Events • Customer Success
+This repository is designed to showcase **how I think, solve problems, and build scalable systems**, not just what I've worked on.
 
 ---
 
-*"Great marketing isn't just about creativity—it's about creating systems that make execution effortless."*
+# 🎯 What You'll Find Here
 
-</div>
-🚀 About Me
+## 📧 Marketing Operations
+Campaign planning, execution checklists, reporting, and optimization.
 
-For the past 12+ years, I've worked where marketing, operations, technology, and customer experience meet.
+## ⚙️ CRM & Automation
+CRM workflows, lead management, segmentation, automation concepts, and best practices.
 
-I enjoy simplifying complex workflows, improving business processes, and building scalable systems that help teams execute with confidence.
+## 🌐 Website Management
+Content updates, landing pages, SEO checklists, QA, and maintenance processes.
 
-Whether it's a CRM workflow, a national event, a website launch, or an email campaign, I believe every successful outcome starts with a well-designed process.
-## 📍 My Journey
+## 🎪 Event Operations
+Planning templates, budgets, vendor management, run sheets, and post-event reviews.
 
-🎓 Technical Trainer
+## 📊 Reporting & Dashboards
+Campaign reporting, KPI tracking, dashboards, and performance analysis.
 
-↓
+## 🤖 AI for Operations
+AI prompts, workflow ideas, and productivity techniques for marketing and operations teams.
 
-📦 Operations Analyst
+---
 
-↓
+# 🌱 Why This Repository?
 
-🛍 Marketplace Operations
+Operations is often invisible—but it's what enables great customer experiences, successful campaigns, and efficient teams.
 
-↓
+This playbook reflects my approach to creating structured, scalable, and measurable processes that support business growth.
 
-🤝 Customer Success
+---
 
-↓
-
-📈 Marketing Operations & Events
-
-↓
-
-🚀 Building Growth Systems
-## 🛠 What I Build
-
-📧 Email Automation
-
-⚙ CRM Workflows
-
-🌐 High-Converting Websites
-
-🎪 Event Operations
-
-📊 Marketing Dashboards
-
-🤖 AI-Powered Workflows
-
-📈 Process Documentation
-## 💻 My Toolkit
-
-### CRM
-- Zoho CRM
-- Zoho Campaigns
-- Zoho Checkout
-
-### Websites
-- WordPress
-- Google Analytics
-- Google Search Console
-- GTM
-
-### Marketing
-- SEO
-- Email Marketing
-- Landing Pages
-- Campaign Operations
-
-### Productivity
-- Excel
-- Canva
-- Notion
-
-### Learning
-- HubSpot
-- GitHub
-- AI Automation
-## 💡 What Makes Me Different?
-
-I don't think in departments.
-
-I think in systems.
-
-Instead of asking,
-
-"How do I finish this task?"
-
-I ask,
-
-"How can this never become a problem again?"
-
-That mindset has shaped every role I've taken—from customer support to marketing operations.
-Marketing Operations OS
-CRM
-Website
-Events
-AI
-Dashboards
-Templates
-Case studies
-
-## 🌱 Currently Working On
-
-• Learning HubSpot
-
-• Building AI workflows for marketers
-
-• Creating reusable marketing SOPs
-
-• Building my Marketing Operations portfolio
-
-## ✨ Beyond Work
-
-When I'm not working, you'll probably find me:
-
-🏔 Exploring new destinations
-
-📚 Learning something new
-
-☕ Spending quality time with family
-
-💡 Experimenting with productivity tools
-
-I believe growth happens when curiosity meets consistency.
-
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
 📍 Bengaluru, India
 
+💼 LinkedIn: https://www.linkedin.com/in/vidyashree-bm-493a2144/
+
 📧 Email: vidyashreebm55@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/vidyashree-bm-493a2144/
+
+# CRM Playbook
+
+This section focuses on building efficient CRM processes that improve lead management, sales collaboration, and customer engagement.
+
+## Topics
+
+- Lead Lifecycle
+- Segmentation
+- Lead Routing
+- CRM Hygiene
+- Automation Ideas
+- Reporting
+
+---
+
+More content coming soon...
+
+
+# Email Marketing Playbook
+
+A practical guide to planning, executing, and optimizing email campaigns.
+
+## Topics
+
+- Campaign Calendar
+- Audience Segmentation
+- Deliverability
+- Quality Assurance
+- A/B Testing
+- Performance Reporting
+
+
+# Website Management
+
+This section covers the operational side of managing a business website.
+
+## Topics
+
+- Website Audit
+- SEO Checklist
+- Landing Pages
+- WordPress Publishing
+- Quality Checks
+- Maintenance Schedule
+
+
+# Event Operations
+
+A collection of templates, processes, and checklists used to plan and execute successful events.
+
+## Topics
+
+- Event Planning
+- Budget Management
+- Vendor Coordination
+- Registration
+- Event Day Run Sheet
+- Post-Event Review
+
+
+# Case Studies
+
+This section documents real business challenges, the approach taken, and the outcomes achieved.
+
+## Planned Case Studies
+
+- Improving Email Deliverability
+- Website Content Management Process
+- CRM Workflow Optimization
+- Marketing Campaign Operations
+- Event Planning & Execution
+
+
+# Templates
+
+Reusable templates for marketing and operations teams.
+
+## Planned Templates
+
+- Campaign Brief
+- Website Audit
+- Event Checklist
+- Vendor Evaluation
+- Marketing Calendar
+- Weekly Status Report
+
+
+The-Operations-Playbook
+│
+├── README.md
+│
+├── CRM-Playbook
+│      └── README.md
+│
+├── Email-Marketing
+│      └── README.md
+│
+├── Website-Management
+│      └── README.md
+│
+├── Event-Operations
+│      └── README.md
+│
+├── Case-Studies
+│      └── README.md
+│
+└── Templates
+       └── README.md
